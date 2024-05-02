@@ -46,7 +46,7 @@ Para o módulo III usaremos as seguintes tecnologias:
 
 ## `Apresentação da aula`
 
-- Aula 1 - HTML: [link da apresentação](https://www.canva.com/design/DAGCiAsCBzo/1u4po3bdJrDWhZS_Utio9g/view?utm_content=DAGCiAsCBzo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- Aula 1 - HTML: [link da apresentação](https://drive.google.com/file/d/1BOVln9sxpkn1oWUOgviAfHhyzGQwaWJb/view?usp=sharing)
 
 --- 
 <br>
@@ -63,4 +63,4 @@ Professora:
 Monitora:
 
 - [linkedin](https://www.linkedin.com/in/thalya-steffany/)
-- [instagram](#)
+- [instagram](https://www.instagram.com/thalya.codes/)
