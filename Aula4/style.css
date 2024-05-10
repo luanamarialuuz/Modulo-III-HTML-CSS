@@ -1,0 +1,22 @@
+.titulo{
+    color: rgb(89, 41, 135);
+    background-color: black;
+    border: 10px solid;
+    height: 500px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+}
+body{
+    background-color: aqua;
+}
+h2{
+    color: #fff;
+}
+.descricao {
+    text-align: right;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 50px;
+}

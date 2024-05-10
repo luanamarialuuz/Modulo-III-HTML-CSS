@@ -1,0 +1,125 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: 0;
+}
+h3 {
+    color: brown;
+    text-align: start;
+    padding: 32px;
+}
+.header-menu{
+    background-color: rgb(218, 207, 228);
+    display: flex;
+    position: fixed;
+    width: 100%;
+    padding: 8px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    height: 10px;
+}
+.header-menu nav{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.lista-menu{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    list-style: none;
+    align-items: center;
+}
+.lista-menu li>a{
+    color: #FFF;
+    font-size: 18px;
+    text-decoration: inherit;
+}
+.principal{
+    display: flex;
+    background-color: blueviolet;
+    height: 100vh;
+}
+.subcontainer-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.div-img{
+    position: absolute;
+    top: 10%;
+    left: 30%;
+
+}
+.texto-1{
+    padding: 32px;
+}
+.principal-2{
+    display: flex;
+    background-color: bisque;
+    height: 100vh;
+    width: 100%;
+}
+.subcontainer-principal2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.subcontainer-principal2 li>a{
+    font-size: 18px;
+    text-decoration: inherit;
+}
+.lista-item{
+    padding: 32px;
+}
+.lista-item ul li{
+    margin-bottom: 52px;
+}
+.principal-3{
+    display: flex;
+    background-color: aqua;
+    height: 100vh;
+}
+.subcontainer-principal3{
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+}
+.subcontainer-principal3 li>a{
+    font-size: 18px;
+    text-decoration: inherit;
+}
+.footer{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    height: 30vh;
+}
+.Contato{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+}
+.lista-footer{
+    color: aqua;
+    font-weight: 700;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    
+}
+.estilo-icon{
+    font-size: 22px;
+    margin-right: 10px;
+}
+.links{
+    color: rgb(39, 134, 216);
+    text-decoration: none;
+}
